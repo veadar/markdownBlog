@@ -69,3 +69,7 @@ Downloadをクリック → [Download](https://github.com/veadar/markdownBlog/re
 ##参考にさせていただいたコード
 
 - [MenuBarAppleScript](http://memogakisouko.appspot.com/MenuBarAppleScript.html)
+- [MMMarkdown](https://github.com/mdiep/MMMarkdown)
+- [HOW TO FILL OUT FORMS ON WEBSITES WITH APPLESCRIPT](http://www.cubemg.com/how-to-fill-out-forms-on-websites-with-applescript/)
+- [HOW TO CLICK A BUTTON ON A WEB PAGE WITH APPLESCRIPT](http://www.cubemg.com/how-to-click-a-button-on-a-web-page-with-applescript/)
+- [aami flat: New Year Resolutions!](https://www.iconfinder.com/icons/897241/article_blog_blogging_compose_resolutions_sign_write_icon#size=128)
