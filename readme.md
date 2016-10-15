@@ -12,13 +12,13 @@ macOS 10.12(他のバージョンでも動くかもだけれど未検証)
 
 ##スクリーンショット
 
-![スクリーンショット](./screenshot.png)
+![スクリーンショット](./markdownblog.gif)
 
 ##対応サービス
 
 - はてなブログ(タグ未対応)
 - はてなダイアリー
-- Livedoor Blog
+- livedoor Blog
 - FC2ブログ
 - WordPress
 - ローカルフォルダ
