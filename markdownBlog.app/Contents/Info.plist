@@ -2,8 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>CFBundleDevelopmentRegion</key>
-	<string>English</string>
+	<key>NSAppleScriptEnabled</key>
+	<false/>
 	<key>CFBundleDocumentTypes</key>
 	<array>
 		<dict>
@@ -19,10 +19,17 @@
 			<string>Viewer</string>
 		</dict>
 	</array>
-	<key>CFBundleExecutable</key>
-	<string>markdownBlog</string>
+	<key>LSMinimumSystemVersionByArchitecture</key>
+	<dict>
+		<key>x86_64</key>
+		<string>10.6</string>
+	</dict>
 	<key>CFBundleIconFile</key>
 	<string>icon.icns</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>markdownBlog</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.yourcompany.MenuBarAppleScript.markdownBlog</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -32,45 +39,19 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>10.6</string>
-	<key>LSMinimumSystemVersionByArchitecture</key>
-	<dict>
-		<key>x86_64</key>
-		<string>10.6</string>
-	</dict>
-	<key>LSUIElement</key>
-	<true/>
-	<key>NSAppleScriptEnabled</key>
-	<false/>
 	<key>NSMainNibFile</key>
 	<string>MainMenu</string>
+	<key>LSUIElement</key><true/>
+	
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
-	<key>WindowState</key>
-	<dict>
-		<key>bundleDividerCollapsed</key>
-		<true/>
-		<key>bundlePositionOfDivider</key>
-		<real>0.0</real>
-		<key>dividerCollapsed</key>
-		<false/>
-		<key>eventLogLevel</key>
-		<integer>2</integer>
-		<key>name</key>
-		<string>ScriptWindowState</string>
-		<key>positionOfDivider</key>
-		<real>838</real>
-		<key>savedFrame</key>
-		<string>189 33 1076 1024 0 0 1920 1057 </string>
-		<key>selectedTab</key>
-		<string>log</string>
-	</dict>
 	<key>___No_NSServices____</key>
 	<array>
 		<dict>
@@ -85,7 +66,24 @@
 			</dict>
 			<key>NSMessage</key>
 			<string>doService</string>
+			
+			
 		</dict>
 	</array>
+	<key>WindowState</key>
+	<dict>
+		<key>dividerCollapsed</key>
+		<false/>
+		<key>eventLogLevel</key>
+		<integer>-1</integer>
+		<key>name</key>
+		<string>ScriptWindowState</string>
+		<key>positionOfDivider</key>
+		<real>494</real>
+		<key>savedFrame</key>
+		<string>143 174 696 680 0 0 1440 878 </string>
+		<key>selectedTabView</key>
+		<string>event log</string>
+	</dict>
 </dict>
 </plist>

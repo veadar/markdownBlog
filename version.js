@@ -1,7 +1,7 @@
 {
   "markdownBlog": {
-    "version": "1.0",
+    "version": "1.1",
     "url": "https://github.com/veadar/markdownBlog/releases",
-    "comment": "・first release."
+    "comment": "・エディタとビューアの不具合を修正"
   }
 }
