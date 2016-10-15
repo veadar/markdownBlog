@@ -49,7 +49,7 @@ macOS 10.12(他のバージョンでも動くかもだけれど未検証)
 <dd>0埋め2桁の日</dd>
 <dt>__hour2__</dt>
 <dd>0埋め2桁の時</dd>
-<dt>__minutes__</dt>
+<dt>__minutes2__</dt>
 <dd>0埋め2桁の分</dd>
 <dt>__seconds2__</dt>
 <dd>0埋め2桁の秒</dd>
