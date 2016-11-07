@@ -1,7 +1,7 @@
 {
   "markdownBlog": {
-    "version": "1.1.2",
+    "version": "1.1.3",
     "url": "https://github.com/veadar/markdownBlog/releases",
-    "comment": "・テキストが長いとファイル保存時に内容が途切れてしまう問題の修正"
+    "comment": "・指定したテキストエディタ以外が終了してもアプリを終了してしまう不具合の修正"
   }
 }
